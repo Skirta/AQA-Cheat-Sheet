@@ -4,14 +4,14 @@
 
 ## 🔹 Java Core
 
-- [Змінні](JavaCore/Variables.md)
-- [Типи даних](JavaCore/DataTypes.md)
-- [Оператори](JavaCore/Operators.md)
-- [Масиви](JavaCore/Arrays.md)
-- [Рядки](JavaCore/Strings.md)
-- [ООП](JavaCore/OOP/)
-- [Колекції](JavaCore/Collections/)
-- [Обробка винятків](JavaCore/Exceptions.md)
+- [Змінні](.idea/JavaCore/Variables.md)
+- [Типи даних](.idea/JavaCore/DataTypes.md)
+- [Оператори](.idea/JavaCore/Operators.md)
+- [Масиви](.idea/JavaCore/Arrays.md)
+- [Рядки](.idea/JavaCore/Strings.md)
+- [ООП](.idea/JavaCore/OOP/)
+- [Колекції](.idea/JavaCore/Collections/)
+- [Обробка винятків](.idea/JavaCore/Exceptions.md)
 
 ---
 
