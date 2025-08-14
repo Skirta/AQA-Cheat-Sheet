@@ -1,0 +1,15 @@
+# IntelliJ IDEA project files to include
+!.idea/modules.xml
+!.idea/misc.xml
+!.idea/vcs.xml
+
+# Ignore personal/workspace-specific files
+.idea/workspace.xml
+.idea/shelf/
+
+# Ignore build output
+/out/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
