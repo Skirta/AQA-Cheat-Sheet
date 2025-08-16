@@ -40,6 +40,9 @@ myCar.startEngine(); // Викликаємо метод startEngine()
 public class User {
 private String username; // Поле приховане
 ```java
+public class User {
+    private String username; // Поле приховане
+
     public String getUsername() { // Публічний гетер
         return this.username;
     }
