@@ -9,8 +9,8 @@
 - [Оператори](.idea/JavaCore/Operators.md)
 - [Масиви](.idea/JavaCore/Arrays.md)
 - [Рядки](.idea/JavaCore/Strings.md)
-- [ООП](.idea/JavaCore/OOP/)
-- [Колекції](.idea/JavaCore/Collections/)
+- [ООП](.idea/JavaCore/OOP.md)
+- [Колекції](.idea/JavaCore/Collections.md)
 - [Обробка винятків](.idea/JavaCore/Exceptions.md)
 
 ---
